@@ -1,4 +1,4 @@
-#SPY Price Prediction using LSTM Neural Networks
+# SPY Price Prediction using LSTM Neural Networks
 
 ## Table of Contents
 - [Overview](#overview)
