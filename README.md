@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project predicts the future closing price of the SPY ETC using Long Short-Term Memory (LSTM) neural networks. The model utilizes 2 years of minute-level SPY data fetched from the Polygon API, processes it with various technical indicators, and predicts the next day's closing price. Additionally, the model calculates a 95% confidence interval for the prediction and the probability of hitting a certain price range based on the residuals of past predictions.\
+This project predicts the future closing price of the SPY ETC using Long Short-Term Memory (LSTM) neural networks. The model utilizes 2 years of minute-level SPY data fetched from the Polygon API, processes it with various technical indicators, and predicts the next day's closing price. Additionally, the model calculates a 95% confidence interval for the prediction and the probability of hitting a certain price range based on the residuals of past predictions.
 
 ## Data Sources
 The stock price data is fetched using the [Polygon API](https://polygon.io/), which provides real-time and historical stock market data.
